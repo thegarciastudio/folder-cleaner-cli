@@ -99,6 +99,6 @@ Licencia MIT. Úsalo, modifícalo, mejoralo.
 
 ---
 
-Created with Python and focus ☕ by [YourName or GitHub handle].  
-Creado con Python y enfoque ☕ por [Tu nombre o usuario GitHub].
-# folder-cleaner-cli
+Created by @thegarciastudio
+Creado por @thegarciastudio
+
